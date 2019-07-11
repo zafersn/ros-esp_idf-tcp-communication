@@ -1,5 +1,5 @@
 # ros-esp_idf-tcp-communication
-This directory contains simple examples of the BSD TCP Server Socket API for ESP-IDF and the combination of the ros turtle node and the tcp client socket apis.
+This directory contains simple examples of the BSD TCP Server Socket API for ESP-IDF and the combination of the ros turtle node and the tcp client socket apis. keyboard key data received with turtlesim_turtle_teleop_key is transmitted to esp32 on Tcp protocol and led blink application.
 
 # --- ESP-IDF ---
 
